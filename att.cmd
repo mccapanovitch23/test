@@ -1,1 +1,1 @@
-am2r.exe
+calc.exe
